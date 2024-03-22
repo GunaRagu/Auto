@@ -26,8 +26,8 @@ public class Sort {
 		while(i.hasNext())
 		{
 			
-			String s = i.next().getText();
-			System.out.println(s);
+			String p = i.next().getText();
+			System.out.println(p);
 		}
 
 		driver.close();
